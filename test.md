@@ -1,6 +1,5 @@
 ---
 title: "This is a Test"
-layout: notes
 tags: [powershell, automation, new]
 categories: [powershell]
 ---
