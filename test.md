@@ -1,4 +1,5 @@
 ---
+layout: notes
 tags: [powershell, automation, new]
 categories: [powershell]
 ---
