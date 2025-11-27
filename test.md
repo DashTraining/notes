@@ -1,9 +1,8 @@
 ---
 title: Testing
-tags: [powershell, automation]
+tags: [powershell, automation, new]
 categories: [powershell]
 ---
 
-Testing This
-============
+# Testing This
 This is just a test file
