@@ -7,12 +7,13 @@ Published at https://dash.training/notes
 All files need to include this at the top, where:
 
 * title is the H2 title TODO: change this to be left out and H1 to be based on first Markdown heading
-* layout is always **notes**, but can now be left out
+* layout is always `notes`, but can now be left out
 * tags can be anything
 * categories should align with existing content
 
 ```
 ---
+title: Name of Post
 layout: notes
 tags: [<tag1>, <tag2>]
 categories: [PowerShell | Azure | PKI]
