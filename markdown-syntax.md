@@ -1,7 +1,8 @@
 ---
 title: Markdown Syntax
 ---
-Based on: [The Markdown Guide](https://www.markdownguide.org).
+
+This only includes syntax that is rendered correctly after Jekyll converts it to a webpage.
 More at: [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
 ### Heading
@@ -9,57 +10,32 @@ More at: [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extend
 # H1
 ## H2
 ### H3
+## Heading with an ID {#custom-id}
 
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
+Some normal text, with a horizontal line below
 
 ---
 
-### Link
+**bold text**
 
-[Markdown Guide](https://www.markdownguide.org)
+*italic text*
 
-### Image
+~~striked text~~
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+> blockquote
 
-### Table
+1. First item on ordered list
+2. Second item
+3. Third item
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+- First item on unordered list
+- Second item
+- Third item
 
-### Fenced Code Block
+`code` that is inline
 
 ```
+# code in a block
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -67,22 +43,19 @@ More at: [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extend
 }
 ```
 
-### Footnote
+[a link to the Markdown Guide](https://www.markdownguide.org)
+
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+
+| Table | Heading |
+| ----------- | ----------- |
+| columns | and |
+| rows | of |
+| alternating | text |
 
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
 term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
+: and definition list
