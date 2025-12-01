@@ -1,7 +1,8 @@
 ---
 title: Markdown Syntax
 ---
-Takenm from: [The Markdown Guide](https://www.markdownguide.org). More at: [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
+Based on: [The Markdown Guide](https://www.markdownguide.org).
+More at: [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
 ### Heading
 
