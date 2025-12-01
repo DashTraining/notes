@@ -43,9 +43,9 @@ Some normal text, with a horizontal line below
 }
 ```
 
-[a link to the Markdown Guide](https://www.markdownguide.org)
+[a link to a website with photos](https://pauldash.com)
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text for the image](https://dash.training/images/dashdottraining-logo-square-small-negative-1.0.0.png)
 
 | Table | Heading |
 | ----------- | ----------- |
