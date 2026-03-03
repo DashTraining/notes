@@ -1,3 +1,10 @@
+---
+title: PowerShell Script Publishing Best Practices
+layout: notes
+tags: [PowerShell]
+categories: [PowerShell]
+---
+
 # PowerShell Script Publishing Best Practices
 
 ## Creating Modules
@@ -41,5 +48,5 @@ In VS Code:
 Think of using a scaffolding tool such as Plaster… [available here](https://github.com/PowerShellOrg/Plaster) ...which is now undergoing changes to make it up-to-date with PowerShell 7
 Good guides on how to use it:
 
-- [1](https://overpoweredshell.com/Working-with-Plaster/#the-default-plaster-template)
-- [2](https://poshsecurity.com/blog/levelling-up-your-powershell-modules-with-plaster)
+- [Working with Plaster](https://overpoweredshell.com/Working-with-Plaster/#the-default-plaster-template)
+- [Levelling up with Plaster](https://poshsecurity.com/blog/levelling-up-your-powershell-modules-with-plaster)
