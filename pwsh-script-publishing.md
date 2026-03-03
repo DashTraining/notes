@@ -1,8 +1,8 @@
-# PowerShell Publishing Best Practices
+# PowerShell Script Publishing Best Practices
 
 ## Creating Modules
 
- #TO-DO
+ #TO-DO: 
 
 ## Documenting
 
@@ -38,10 +38,7 @@ In VS Code:
 
 ## Putting it together
 
-Think of using a scaffolding tool such as Plaster…
-[available here](https://github.com/PowerShellOrg/Plaster)
-
-which is now undergoing changes to make it up-to-date with Pwsh 7
+Think of using a scaffolding tool such as Plaster… [available here](https://github.com/PowerShellOrg/Plaster) ...which is now undergoing changes to make it up-to-date with PowerShell 7
 Good guides on how to use it:
 
 - [1](https://overpoweredshell.com/Working-with-Plaster/#the-default-plaster-template)
