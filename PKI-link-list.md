@@ -38,6 +38,8 @@ Please report broken links.
 
 - [SSL certificates at Comodo](https://ssl.comodo.com/free-ssl-certificate.php)
 - [Microsoft Trusted Root Certificate Program Audit Requirements | Microsoft Learn — Microsoft Trusted Root Certificate Program](https://social.technet.microsoft.com/wiki/contents/articles/31635.microsoft-trusted-root-certificate-program-audit-requirements.aspx)
+- [free code signing for Open Source Software](https://ossign.org/#apply)
+- [cheap code signing for Open Source Software](https://shop.certum.eu/open-source-code-signing-on-simplysign.html)
 - [Example of terminated trust](https://blog.qualys.com/ssllabs/2017/04/05/ssl-labs-distrusts-wosign-and-startcom-certificates)
 - [Example of terminated trust](https://blog.qualys.com/ssllabs/2017/09/26/google-and-mozilla-deprecating-existing-symantec-certificates)
 
