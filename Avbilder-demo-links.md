@@ -1,3 +1,10 @@
+---
+title: Avbilder Demo Links
+layout: notes
+tags: Azure
+---
+
+
 # Avbilder Demo Links
 
 Running a real business for free* on Azure services!
