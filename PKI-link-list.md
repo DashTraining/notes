@@ -14,7 +14,7 @@ Please report broken links.
 
 ### Algorithms
 
-- [Sunsetting SHA-1](https://security.googleblog.com/2014/09/gradually-sunsetting-sha-1.html) (kind of an old already in 2024)
+- [Sunsetting SHA-1](https://security.googleblog.com/2014/09/gradually-sunsetting-sha-1.html) (old, but good example of changes to standards)
 - [SHA-256 Compatibility — SHA-256 Compatibility](https://support.globalsign.com/customer/portal/articles/1499561-sha-256-compatibility)
 - [Disk encryption theory - Wikipedia](https://en.wikipedia.org/wiki/Disk_encryption_theory)
 - [Good example of ECB (Electronic Codebook) encryption](https://upload.wikimedia.org/wikipedia/commons/f/f0/Tux_ecb.jpg), more on it here [The ECB Penguin](https://blog.filippo.io/the-ecb-penguin/)
@@ -25,19 +25,19 @@ Please report broken links.
 ### OIDs
 
 - [Show an OID at IANA](https://oid-base.com/get/1.3.6.1.4.1) then type 53698
-- [IANA | Request Private Enterprise Numbers](http://pen.iana.org/pen/PenApplication.page)
+- [IANA - Request Private Enterprise Numbers](http://pen.iana.org/pen/PenApplication.page)
 - [OIDs for Microsoft Cryptography](https://support.microsoft.com/en-us/help/287547/object-ids-associated-with-microsoft-cryptography)
 
 ### ASN.1
 
-- [ASN.1 Editor | PKI Solutions](https://www.pkisolutions.com/tools/asn1editor/)
+- [ASN.1 Editor - PKI Solutions](https://www.pkisolutions.com/tools/asn1editor/)
 
 ## Getting Started with CAs
 
 ### External CAs
 
 - [SSL certificates at Comodo](https://ssl.comodo.com/free-ssl-certificate.php)
-- [Microsoft Trusted Root Certificate Program Audit Requirements | Microsoft Learn — Microsoft Trusted Root Certificate Program](https://social.technet.microsoft.com/wiki/contents/articles/31635.microsoft-trusted-root-certificate-program-audit-requirements.aspx)
+- [Microsoft Trusted Root Certificate Program Audit Requirements](https://social.technet.microsoft.com/wiki/contents/articles/31635.microsoft-trusted-root-certificate-program-audit-requirements.aspx)
 - [free code signing for Open Source Software](https://ossign.org/#apply)
 - [cheap code signing for Open Source Software](https://shop.certum.eu/open-source-code-signing-on-simplysign.html)
 - [Example of terminated trust](https://blog.qualys.com/ssllabs/2017/04/05/ssl-labs-distrusts-wosign-and-startcom-certificates)
@@ -65,7 +65,7 @@ kb5005413-mitigating-ntlm-relay-attacks-on-active-directory-certificate-services
 
 ### PowerShell automation
 
-- [PSPKI | PKI Solutions — PSPKI](https://www.pkisolutions.com/tools/pspki/)
+- [PSPKI - PKI Solutions — PSPKI](https://www.pkisolutions.com/tools/pspki/)
 - [Approve-CertificateRequest with PSPKI](https://www.sysadmins.lv/projects/pspki/Approve-CertificateRequest.aspx)
 - [Backup-CARoleService](https://technet.microsoft.com/library/dn440704(v=wps.630).aspx)
 
@@ -108,7 +108,7 @@ kb5005413-mitigating-ntlm-relay-attacks-on-active-directory-certificate-services
 
 - [Drivers for the Gemalto cards](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2016/06/20886167_c141b07eec3171d843702d148abec1903f4e5e16.cab)
 - [Setting up Certificate Templates to Enroll on behalf of other Users](https://pivkey.zendesk.com/hc/en-us/articles/203128059-Setting-up-Certificate-Templates-to-Enroll-on-behalf-of-other-Users-Server-2008-R2-)
-- [Enabling smart card logon - Windows Server | Microsoft Learn — Logon with certs from 3rd-party Cas](https://support.microsoft.com/en-us/help/281245/guidelines-for-enabling-smart-card-logon-with-third-party-certificatio)
+- [Enabling smart card logon - Logon with certs from 3rd-party CAs](https://support.microsoft.com/en-us/help/281245/guidelines-for-enabling-smart-card-logon-with-third-party-certificatio)
 - [Virtual Smart Cards](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/setting-up-virtual-smart-card-logon-using-virtual-tpm-for/ba-p/400409)
 - [Get Started with Virtual Smart Cards - Walkthrough Guide](https://docs.microsoft.com/en-us/windows/security/identity-protection/virtual-smart-cards/virtual-smart-card-get-started)
 
@@ -122,7 +122,7 @@ kb5005413-mitigating-ntlm-relay-attacks-on-active-directory-certificate-services
 
 ### Code signing
 
-- [SignTool - Win32 apps | Microsoft Learn — Sign Tool documentation here:](https://docs.microsoft.com/en-us/windows/win32/seccrypto/signtool)
+- [SignTool - Microsoft Learn documentation](https://docs.microsoft.com/en-us/windows/win32/seccrypto/signtool)
 - [SSL certificates inside Java apps](https://medium.com/@codebyamir/the-java-developers-guide-to-ssl-certificates-b78142b3a0fc)
 - [Java Code Signer](https://docs.oracle.com/javase/tutorial/security/toolsign/signer.html)
 
