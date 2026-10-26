@@ -22,6 +22,24 @@ Please report broken links.
 - [Bitlocker: AES-XTS (new encryption type)](https://blogs.technet.microsoft.com/dubaisec/2016/03/04/bitlocker-aes-xts-new-encryption-type/)
 - [You Don't Want XTS](https://sockpuppet.org/blog/2014/04/30/you-dont-want-xts/)
 
+#### Diffie-Hellman Key Exchange
+
+- [DH KE example](https://www.geeksforgeeks.org/computer-networks/implementation-diffie-hellman-algorithm/)
+- [Primitave Root Modulo](https://miniwebtool.com/primitive-root-calculator) calculation for the DH KE
+
+#### Elliptic Curve Cryptography
+
+- [RSA vs ECC key sizes](https://khimananda.com/blog/rsa-vs-ecc-key-sizes-and-trade-offs)
+
+## PKI Basics
+
+### Components
+
+#### Client applications
+
+- [Vulnerability with wrong validation](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2001/ms01-027) on IE/CryptoAPI
+- [Chain building bypassed CA checks](https://nvd.nist.gov/vuln/detail/cve-2015-1793) by OpenSSL overlooking "CA:FALSE"
+
 ### OIDs
 
 - [Show an OID at IANA](https://oid-base.com/get/1.3.6.1.4.1) then type 53698
@@ -40,18 +58,21 @@ Please report broken links.
 - [Microsoft Trusted Root Certificate Program Audit Requirements](https://social.technet.microsoft.com/wiki/contents/articles/31635.microsoft-trusted-root-certificate-program-audit-requirements.aspx)
 - [free code signing for Open Source Software](https://ossign.org/#apply)
 - [cheap code signing for Open Source Software](https://shop.certum.eu/open-source-code-signing-on-simplysign.html)
+- [Certificate Transparency Log](https://certificate.transparency.dev/)
+
+Sometimes CAs can't be trusted any longer:
+
 - [Example of terminated trust](https://blog.qualys.com/ssllabs/2017/04/05/ssl-labs-distrusts-wosign-and-startcom-certificates)
 - [Example of terminated trust](https://blog.qualys.com/ssllabs/2017/09/26/google-and-mozilla-deprecating-existing-symantec-certificates)
 
 ### Active Directory Certificate Services
 
 - [Active Directory Certificate Services (AD CS) Public Key Infrastructure (PKI) Design Guide](https://social.technet.microsoft.com/wiki/contents/articles/7421.active-directory-certificate-services-ad-cs-public-key-infrastructure-pki-design-guide.aspx)
-kb5005413-mitigating-ntlm-relay-attacks-on-active-directory-certificate-services-ad-cs-3612b773-4043-4aa9-b23d-b87910cd3429)
 - [Commands for AD CS setup on Windows Server Core](https://learn.microsoft.com/en-us/windows-server/identity/ad-cs/)
 - [Lab Guide: Installing a Two-Tier AD CS](https://michaelpoore.com/2016/03/howto-publishing-offline-root-ca-certs-and-crls/)
 - [Lab Guide: Deploying an AD CS Two-Tier PKI Hierarchy](https://technet.microsoft.com/library/hh831348.aspx)
 - [AD CS common issues](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
-- [KB5005413: Mitigating NTLM Relay Attacks on AD CS](https://support.microsoft.com/en-us/topic/)
+- [KB5005413: Mitigating NTLM Relay Attacks on AD CS](https://support.microsoft.com/en-us/topic/kb5005413-mitigating-ntlm-relay-attacks-on-active-directory-certificate-services-ad-cs-3612b773-4043-4aa9-b23d-b87910cd3429)
 - [What is a strong key protection in Windows? - Sysadmins LV — Much more about this:](https://www.sysadmins.lv/retired-msft-blogs/pki/what-is-a-strong-key-protection-in-windows.aspx)
 - [Activating the Strong Private Key Protection](https://adelnadjarantoosi.wordpress.com/2017/04/12/how-to-activate-the-enable-strong-private-key-protection-option/)
 - [Force strong key protection for user keys stored on the computer](https://technet.microsoft.com/en-us/library/jj852211(v=ws.11).aspx)
