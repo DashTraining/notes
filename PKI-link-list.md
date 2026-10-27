@@ -101,6 +101,7 @@ Sometimes CAs can't be trusted any longer:
 ### Online Responders
 
 - [Manually verify a certificate against an OCSP](https://raymii.org/s/articles/OpenSSL_Manually_Verify_a_certificate_against_an_OCSP.html) with OpenSSL
+- [Exit Module to integrate with real-time OCSP](https://www.wisekey.com/products-services/digital-identity-pki/pki-technology/enhancements-for-microsoft-ca/)
 
 ### NDES
 
