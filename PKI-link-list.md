@@ -83,6 +83,7 @@ Sometimes CAs can't be trusted any longer:
 - [Sleepw4lker/TameMyCerts: Policy Module for Microsoft Active Directory Certificate Services](https://github.com/Sleepw4lker/TameMyCerts) on GitHub
 - [GhostPack/PSPKIAudit: PowerShell toolkit for AD CS auditing based on the PSPKI toolkit. — PSPKIAudit](https://github.com/GhostPack/PSPKIAudit) on GitHub
 - [certutil — PKI Health Tool, Certutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/certutil)
+- [Clustering AD CS](https://www.vkernel.ro/blog/clustering-active-directory-certificate-services-ad-cs)
 
 ### PowerShell automation
 
